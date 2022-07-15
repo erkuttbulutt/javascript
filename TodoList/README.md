@@ -2,4 +2,4 @@
 
 ## Açıklama
 
-Html, Css (Boostrap), JavaScript ve Local Storage kullanılarak Yapılacaklar Listesi projesi yapılmıştır.
+Html, Css, JavaScript ve Local Storage kullanılarak Yapılacaklar Listesi projesi yapılmıştır.
