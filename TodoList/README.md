@@ -1,1 +1,1 @@
-# Todo List 
+# Todo List (Yapılacaklar Listesi)
