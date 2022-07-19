@@ -1,5 +1,3 @@
-# Todo List Projesi
+# Todo List (Yapılacaklar Listesi)
 
-## Açıklama
 
-Html, Css, JavaScript ve Local Storage kullanılarak Yapılacaklar Listesi projesi yapılmıştır.
