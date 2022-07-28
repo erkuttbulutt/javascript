@@ -1,0 +1,27 @@
+{
+  "name": "employee-project",
+  "version": "1.0.0",
+  "description": "This is a employee project with using webpack,babel,webpack-dev-server and Es6 Modules",
+  "main": "./src/index.js",
+  "scripts": {
+    "test": "This is a test",
+    "start": "webpack serve --output-public-path=/bundles/ --mode development --env development",
+    "build": "webpack --progress",
+    "jsonstart":"json-server --watch fake-api/employee.json"
+  },
+  "keywords": [
+    "employee",
+    "project"
+  ],
+  "author": "Erkut Bulut",
+  "license": "ISC",
+  "devDependencies": {
+    "@babel/core": "^7.18.9",
+    "@babel/polyfill": "^7.12.1",
+    "@babel/preset-env": "^7.18.9",
+    "babel-loader": "^8.2.5",
+    "webpack": "^5.74.0",
+    "webpack-cli": "^4.10.0",
+    "webpack-dev-server": "^3.1.9"
+  }
+}

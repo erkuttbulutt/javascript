@@ -1,0 +1,22 @@
+{
+  "employees": [
+    {
+      "name": "Serhat Sat",
+      "department": "Pazarlama1",
+      "salary": 3000000000,
+      "id": 1
+    },
+    {
+      "name": "Serhat Sat",
+      "department": "Pazarlama1",
+      "salary": 3000,
+      "id": 3
+    },
+    {
+      "name": "Erkut",
+      "department": "bilgisayar",
+      "salary": 10000,
+      "id": 4
+    }
+  ]
+}
